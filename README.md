@@ -39,4 +39,4 @@
    <a href="https://www.instagram.com/_alvaroags" target="_blank"><img src="https://img.shields.io/badge/Instagram-D81B60?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
   
-  ![Snake animation](https://github.com/alvaroags/alvaroags/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alvaroags/alvaroags/blob/output/github-contribution-grid-snake.svg)
