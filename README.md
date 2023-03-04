@@ -1,5 +1,6 @@
 ## Eaii! Sou o Álvaro Gomes 🤙🏻
   <img align="right" width="150" src="https://octodex.github.com/images/stormtroopocat.png" />
+  
 - 🔭 Tenho conhecimento em linguagem C, Python, HTML, CSS, JS e SQL
 
 - 🌱 Atualmente estou aprendendo PHP e Jquery 
