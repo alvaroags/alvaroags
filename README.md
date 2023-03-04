@@ -1,8 +1,10 @@
 ## Eaii! Sou o Álvaro Gomes 🤙🏻
-
+  <img align="right" width="150" src="https://octodex.github.com/images/stormtroopocat.png" />
 - 🔭 Tenho conhecimento em linguagem C, Python, HTML, CSS, JS e SQL
+
 - 🌱 Atualmente estou aprendendo PHP e Jquery 
-- 💬 Pretendo em breve aprender sobre Ciência de Dados
+
+- 💬 Pretendo em breve começar estudo sobre Ciência de Dados
 
 ##
 
@@ -13,6 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroags&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&border_radius=8&hide_border=false&bg_color=DEG,000D1F,1E1B2C&border_color=0AEBEB"/>
   <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroags&layout=compact&langs_count=7&theme=vue-dark&border_radius=8&hide_border=false&bg_color=DEG,000D1F,1E1B2C&border_color=0AEBEB"/>
 </div>
+ 
+<br>
   
 <div style="display: inline_block">
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -22,7 +26,7 @@
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-   <img align="right" width="150" src="https://octodex.github.com/images/stormtroopocat.png" />
+   
 </div>
  
  ## 
