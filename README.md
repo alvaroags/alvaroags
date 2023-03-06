@@ -15,7 +15,7 @@
 <div style="display:inline-block; position:relative;">
   <a href="https://github.com/alvaroags">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroags&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&border_radius=8&hide_border=false&bg_color=DEG,000D1F,1E1B2C&border_color=0AEBEB"/>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroags&layout=compact&langs_count=7&theme=vue-dark&border_radius=8&hide_border=false&bg_color=DEG,000D1F,1E1B2C&border_color=0AEBEB"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroags&layout=defalut&langs_count=7&theme=vue-dark&border_radius=8&hide_border=false&bg_color=DEG,000D1F,1E1B2C&border_color=0AEBEB"/>
 </div>
  
 <br>
