@@ -2,11 +2,11 @@
 
   <img align="right" width="150" src="https://octodex.github.com/images/stormtroopocat.png" />
   
-- 🔭 Tenho conhecimento em linguagem C, Python, HTML, CSS, JS e SQL
+- 🔭 Tenho conhecimento em linguagem C, Python, HTML, CSS, JS, PHP e SQL
 
-- 🌱 Atualmente estou aprendendo PHP e Jquery 
+- 🌱 Atualmente estou aprendendo Árvores(estrutura de dados), spark e scala
 
-- 💬 Pretendo em breve começar estudo sobre Ciência de Dados
+- 💬 Contribuinte de pesquisa do NESPeD (UFV)
 
 ##
 
