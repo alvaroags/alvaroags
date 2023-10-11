@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=EAII,+MEU+NOME+É+ÁLVARO+GOMES;EU+TENHO+20+ANOS;SOU+DE+PARÁ+DE+MINAS+-+MG;EU+ESTUDO+CIÊNCIAS+DA+COMPUTAÇÃO+NA+UFV;SEJA+BEM-VINDO+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=EAII,+MEU+NOME+É+ÁLVARO;ESTUDO+CIÊNCIAS+DA+COMPUTAÇÃO+NA+UFV;SEJA+BEM-VINDO+:%29)
 
   <img align="right" width="150" src="https://octodex.github.com/images/stormtroopocat.png" />
   
