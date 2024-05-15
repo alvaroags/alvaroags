@@ -2,11 +2,11 @@
 
   <img align="right" width="150" src="https://octodex.github.com/images/stormtroopocat.png" />
   
-- 🔭 Tenho conhecimento em linguagem C, Python, HTML, CSS, JS, PHP e SQL
+- 🔭 Tenho conhecimento em linguagem C, Laravel, Python, HTML, CSS, JS e Banco de Dados
 
-- 🌱 Atualmente estou aprendendo Árvores(estrutura de dados), spark e scala
+- 🌱 Atualmente estou aprendendo Ciência de Dados, Geolocalização e Desenvolvimento Web
 
-- 💬 Contribuinte de pesquisa do NESPeD (UFV)
+- 💬 Integrante de pesquisa do NESPeD (UFV)
 
 ##
 
